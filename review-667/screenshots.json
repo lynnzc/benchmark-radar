@@ -945,6 +945,94 @@
         "ui-refinement-today-320-dark-before.jpg",
         "ui-refinement-today-320-dark-after.jpg"
       ]
+    },
+    {
+      "group": "Paper banner divider",
+      "page": "today",
+      "route": "/",
+      "width": 1440,
+      "scheme": "light",
+      "images": [
+        "paper-banner-divider-1440-light-before.jpg",
+        "paper-banner-divider-1440-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Paper banner divider",
+      "page": "today",
+      "route": "/",
+      "width": 1440,
+      "scheme": "dark",
+      "images": [
+        "paper-banner-divider-1440-dark-before.jpg",
+        "paper-banner-divider-1440-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Paper banner divider",
+      "page": "today",
+      "route": "/",
+      "width": 1060,
+      "scheme": "light",
+      "images": [
+        "paper-banner-divider-1060-light-before.jpg",
+        "paper-banner-divider-1060-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Paper banner divider",
+      "page": "today",
+      "route": "/",
+      "width": 1060,
+      "scheme": "dark",
+      "images": [
+        "paper-banner-divider-1060-dark-before.jpg",
+        "paper-banner-divider-1060-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Paper banner divider",
+      "page": "today",
+      "route": "/",
+      "width": 390,
+      "scheme": "light",
+      "images": [
+        "paper-banner-divider-390-light-before.jpg",
+        "paper-banner-divider-390-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Paper banner divider",
+      "page": "today",
+      "route": "/",
+      "width": 390,
+      "scheme": "dark",
+      "images": [
+        "paper-banner-divider-390-dark-before.jpg",
+        "paper-banner-divider-390-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Paper banner divider",
+      "page": "today",
+      "route": "/",
+      "width": 320,
+      "scheme": "light",
+      "images": [
+        "paper-banner-divider-320-light-before.jpg",
+        "paper-banner-divider-320-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Paper banner divider",
+      "page": "today",
+      "route": "/",
+      "width": 320,
+      "scheme": "dark",
+      "images": [
+        "paper-banner-divider-320-dark-before.jpg",
+        "paper-banner-divider-320-dark-after.jpg"
+      ]
     }
   ],
   "browser_errors": []
