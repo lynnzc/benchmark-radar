@@ -1,0 +1,56 @@
+{
+  "8781/": {
+    ".masthead": {
+      "width": 362,
+      "height": 137
+    },
+    ".brand": {
+      "width": 142,
+      "height": 42
+    },
+    ".brand-mark": {
+      "width": 15.796875,
+      "height": 42
+    },
+    ".brand strong": {
+      "width": 112.609375,
+      "height": 38.40625
+    }
+  },
+  "8790/": {
+    ".masthead": {
+      "width": 362,
+      "height": 137
+    },
+    ".brand": {
+      "width": 142,
+      "height": 42
+    },
+    ".brand-mark": {
+      "width": 15.796875,
+      "height": 42
+    },
+    ".brand strong": {
+      "width": 112.609375,
+      "height": 38.40625
+    }
+  },
+  "8790/benchmarks/gpqa_diamond/": {
+    ".masthead": {
+      "width": 362,
+      "height": 137
+    },
+    ".brand": {
+      "width": 142,
+      "height": 42
+    },
+    ".brand-mark": {
+      "width": 15.796875,
+      "height": 42
+    },
+    ".brand strong": {
+      "width": 112.609375,
+      "height": 38.40625
+    }
+  }
+}

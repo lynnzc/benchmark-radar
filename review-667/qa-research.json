@@ -1,0 +1,19 @@
+{
+  "catalog_count": 3228,
+  "sources": {
+    "artificial_analysis": 25,
+    "claire_radar": 1914,
+    "llm_stats": 687,
+    "model_reports": 141,
+    "opencompass_hub": 461
+  },
+  "export_full_catalog": true,
+  "pagination_pages": 269,
+  "unknown": 2417,
+  "unverified": 708,
+  "under70": 40,
+  "70to90": 37,
+  "over90": 26,
+  "detail_keyboard_and_lazy_loading": true,
+  "page_errors": []
+}

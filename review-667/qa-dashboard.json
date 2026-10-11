@@ -1,0 +1,14 @@
+{
+  "/leaderboard/?lmode=adoption": {
+    "same_default_rows_as_main": true,
+    "adoption_rows": 5,
+    "score_ranking_rows": 5,
+    "frontier_options": 0
+  },
+  "/saturation/": {
+    "same_default_rows_as_main": true,
+    "adoption_rows": 0,
+    "score_ranking_rows": 0,
+    "frontier_options": 2773
+  }
+}

@@ -1,0 +1,797 @@
+{
+  "matrix": [
+    {
+      "group": "Research explorer",
+      "page": "research",
+      "route": "/research/",
+      "width": 390,
+      "scheme": "dark",
+      "images": [
+        "research-explorer-research-390-dark-before.jpg",
+        "research-explorer-research-390-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Research explorer",
+      "page": "research",
+      "route": "/research/",
+      "width": 390,
+      "scheme": "light",
+      "images": [
+        "research-explorer-research-390-light-before.jpg",
+        "research-explorer-research-390-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Research explorer",
+      "page": "research",
+      "route": "/research/",
+      "width": 1440,
+      "scheme": "dark",
+      "images": [
+        "research-explorer-research-1440-dark-before.jpg",
+        "research-explorer-research-1440-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Research explorer",
+      "page": "research",
+      "route": "/research/",
+      "width": 1440,
+      "scheme": "light",
+      "images": [
+        "research-explorer-research-1440-light-before.jpg",
+        "research-explorer-research-1440-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Research filters",
+      "page": "frontier",
+      "route": "/leaderboard/?lmode=adoption",
+      "width": 390,
+      "scheme": "dark",
+      "images": [
+        "research-filters-frontier-390-dark-before.jpg",
+        "research-filters-frontier-390-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Research filters",
+      "page": "frontier",
+      "route": "/leaderboard/?lmode=adoption",
+      "width": 390,
+      "scheme": "light",
+      "images": [
+        "research-filters-frontier-390-light-before.jpg",
+        "research-filters-frontier-390-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Research filters",
+      "page": "frontier",
+      "route": "/leaderboard/?lmode=adoption",
+      "width": 1440,
+      "scheme": "dark",
+      "images": [
+        "research-filters-frontier-1440-dark-before.jpg",
+        "research-filters-frontier-1440-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Research filters",
+      "page": "frontier",
+      "route": "/leaderboard/?lmode=adoption",
+      "width": 1440,
+      "scheme": "light",
+      "images": [
+        "research-filters-frontier-1440-light-before.jpg",
+        "research-filters-frontier-1440-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Research filters",
+      "page": "saturation",
+      "route": "/saturation/",
+      "width": 390,
+      "scheme": "dark",
+      "images": [
+        "research-filters-saturation-390-dark-before.jpg",
+        "research-filters-saturation-390-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Research filters",
+      "page": "saturation",
+      "route": "/saturation/",
+      "width": 390,
+      "scheme": "light",
+      "images": [
+        "research-filters-saturation-390-light-before.jpg",
+        "research-filters-saturation-390-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Research filters",
+      "page": "saturation",
+      "route": "/saturation/",
+      "width": 1440,
+      "scheme": "dark",
+      "images": [
+        "research-filters-saturation-1440-dark-before.jpg",
+        "research-filters-saturation-1440-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Research filters",
+      "page": "saturation",
+      "route": "/saturation/",
+      "width": 1440,
+      "scheme": "light",
+      "images": [
+        "research-filters-saturation-1440-light-before.jpg",
+        "research-filters-saturation-1440-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "today",
+      "route": "/",
+      "width": 390,
+      "scheme": "dark",
+      "images": [
+        "shared-styling-today-390-dark-before.jpg",
+        "shared-styling-today-390-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "today",
+      "route": "/",
+      "width": 390,
+      "scheme": "light",
+      "images": [
+        "shared-styling-today-390-light-before.jpg",
+        "shared-styling-today-390-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "today",
+      "route": "/",
+      "width": 1440,
+      "scheme": "dark",
+      "images": [
+        "shared-styling-today-1440-dark-before.jpg",
+        "shared-styling-today-1440-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "today",
+      "route": "/",
+      "width": 1440,
+      "scheme": "light",
+      "images": [
+        "shared-styling-today-1440-light-before.jpg",
+        "shared-styling-today-1440-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "leaderboard",
+      "route": "/leaderboard/",
+      "width": 390,
+      "scheme": "dark",
+      "images": [
+        "shared-styling-leaderboard-390-dark-before.jpg",
+        "shared-styling-leaderboard-390-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "leaderboard",
+      "route": "/leaderboard/",
+      "width": 390,
+      "scheme": "light",
+      "images": [
+        "shared-styling-leaderboard-390-light-before.jpg",
+        "shared-styling-leaderboard-390-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "leaderboard",
+      "route": "/leaderboard/",
+      "width": 1440,
+      "scheme": "dark",
+      "images": [
+        "shared-styling-leaderboard-1440-dark-before.jpg",
+        "shared-styling-leaderboard-1440-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "leaderboard",
+      "route": "/leaderboard/",
+      "width": 1440,
+      "scheme": "light",
+      "images": [
+        "shared-styling-leaderboard-1440-light-before.jpg",
+        "shared-styling-leaderboard-1440-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "frontier",
+      "route": "/leaderboard/?lmode=adoption",
+      "width": 390,
+      "scheme": "dark",
+      "images": [
+        "shared-styling-frontier-390-dark-before.jpg",
+        "shared-styling-frontier-390-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "frontier",
+      "route": "/leaderboard/?lmode=adoption",
+      "width": 390,
+      "scheme": "light",
+      "images": [
+        "shared-styling-frontier-390-light-before.jpg",
+        "shared-styling-frontier-390-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "frontier",
+      "route": "/leaderboard/?lmode=adoption",
+      "width": 1440,
+      "scheme": "dark",
+      "images": [
+        "shared-styling-frontier-1440-dark-before.jpg",
+        "shared-styling-frontier-1440-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "frontier",
+      "route": "/leaderboard/?lmode=adoption",
+      "width": 1440,
+      "scheme": "light",
+      "images": [
+        "shared-styling-frontier-1440-light-before.jpg",
+        "shared-styling-frontier-1440-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "saturation",
+      "route": "/saturation/",
+      "width": 390,
+      "scheme": "dark",
+      "images": [
+        "shared-styling-saturation-390-dark-before.jpg",
+        "shared-styling-saturation-390-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "saturation",
+      "route": "/saturation/",
+      "width": 390,
+      "scheme": "light",
+      "images": [
+        "shared-styling-saturation-390-light-before.jpg",
+        "shared-styling-saturation-390-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "saturation",
+      "route": "/saturation/",
+      "width": 1440,
+      "scheme": "dark",
+      "images": [
+        "shared-styling-saturation-1440-dark-before.jpg",
+        "shared-styling-saturation-1440-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "saturation",
+      "route": "/saturation/",
+      "width": 1440,
+      "scheme": "light",
+      "images": [
+        "shared-styling-saturation-1440-light-before.jpg",
+        "shared-styling-saturation-1440-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "trends",
+      "route": "/trends/",
+      "width": 390,
+      "scheme": "dark",
+      "images": [
+        "shared-styling-trends-390-dark-before.jpg",
+        "shared-styling-trends-390-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "trends",
+      "route": "/trends/",
+      "width": 390,
+      "scheme": "light",
+      "images": [
+        "shared-styling-trends-390-light-before.jpg",
+        "shared-styling-trends-390-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "trends",
+      "route": "/trends/",
+      "width": 1440,
+      "scheme": "dark",
+      "images": [
+        "shared-styling-trends-1440-dark-before.jpg",
+        "shared-styling-trends-1440-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "trends",
+      "route": "/trends/",
+      "width": 1440,
+      "scheme": "light",
+      "images": [
+        "shared-styling-trends-1440-light-before.jpg",
+        "shared-styling-trends-1440-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "explore",
+      "route": "/explore/",
+      "width": 390,
+      "scheme": "dark",
+      "images": [
+        "shared-styling-explore-390-dark-before.jpg",
+        "shared-styling-explore-390-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "explore",
+      "route": "/explore/",
+      "width": 390,
+      "scheme": "light",
+      "images": [
+        "shared-styling-explore-390-light-before.jpg",
+        "shared-styling-explore-390-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "explore",
+      "route": "/explore/",
+      "width": 1440,
+      "scheme": "dark",
+      "images": [
+        "shared-styling-explore-1440-dark-before.jpg",
+        "shared-styling-explore-1440-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "explore",
+      "route": "/explore/",
+      "width": 1440,
+      "scheme": "light",
+      "images": [
+        "shared-styling-explore-1440-light-before.jpg",
+        "shared-styling-explore-1440-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "cli",
+      "route": "/cli/",
+      "width": 390,
+      "scheme": "dark",
+      "images": [
+        "shared-styling-cli-390-dark-before.jpg",
+        "shared-styling-cli-390-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "cli",
+      "route": "/cli/",
+      "width": 390,
+      "scheme": "light",
+      "images": [
+        "shared-styling-cli-390-light-before.jpg",
+        "shared-styling-cli-390-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "cli",
+      "route": "/cli/",
+      "width": 1440,
+      "scheme": "dark",
+      "images": [
+        "shared-styling-cli-1440-dark-before.jpg",
+        "shared-styling-cli-1440-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "cli",
+      "route": "/cli/",
+      "width": 1440,
+      "scheme": "light",
+      "images": [
+        "shared-styling-cli-1440-light-before.jpg",
+        "shared-styling-cli-1440-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "cite",
+      "route": "/cite/",
+      "width": 390,
+      "scheme": "dark",
+      "images": [
+        "shared-styling-cite-390-dark-before.jpg",
+        "shared-styling-cite-390-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "cite",
+      "route": "/cite/",
+      "width": 390,
+      "scheme": "light",
+      "images": [
+        "shared-styling-cite-390-light-before.jpg",
+        "shared-styling-cite-390-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "cite",
+      "route": "/cite/",
+      "width": 1440,
+      "scheme": "dark",
+      "images": [
+        "shared-styling-cite-1440-dark-before.jpg",
+        "shared-styling-cite-1440-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "cite",
+      "route": "/cite/",
+      "width": 1440,
+      "scheme": "light",
+      "images": [
+        "shared-styling-cite-1440-light-before.jpg",
+        "shared-styling-cite-1440-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "rubric",
+      "route": "/rubric/",
+      "width": 390,
+      "scheme": "dark",
+      "images": [
+        "shared-styling-rubric-390-dark-before.jpg",
+        "shared-styling-rubric-390-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "rubric",
+      "route": "/rubric/",
+      "width": 390,
+      "scheme": "light",
+      "images": [
+        "shared-styling-rubric-390-light-before.jpg",
+        "shared-styling-rubric-390-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "rubric",
+      "route": "/rubric/",
+      "width": 1440,
+      "scheme": "dark",
+      "images": [
+        "shared-styling-rubric-1440-dark-before.jpg",
+        "shared-styling-rubric-1440-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "rubric",
+      "route": "/rubric/",
+      "width": 1440,
+      "scheme": "light",
+      "images": [
+        "shared-styling-rubric-1440-light-before.jpg",
+        "shared-styling-rubric-1440-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "blog",
+      "route": "/blog/",
+      "width": 390,
+      "scheme": "dark",
+      "images": [
+        "shared-styling-blog-390-dark-before.jpg",
+        "shared-styling-blog-390-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "blog",
+      "route": "/blog/",
+      "width": 390,
+      "scheme": "light",
+      "images": [
+        "shared-styling-blog-390-light-before.jpg",
+        "shared-styling-blog-390-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "blog",
+      "route": "/blog/",
+      "width": 1440,
+      "scheme": "dark",
+      "images": [
+        "shared-styling-blog-1440-dark-before.jpg",
+        "shared-styling-blog-1440-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "blog",
+      "route": "/blog/",
+      "width": 1440,
+      "scheme": "light",
+      "images": [
+        "shared-styling-blog-1440-light-before.jpg",
+        "shared-styling-blog-1440-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "archive",
+      "route": "/blog/archive/",
+      "width": 390,
+      "scheme": "dark",
+      "images": [
+        "shared-styling-archive-390-dark-before.jpg",
+        "shared-styling-archive-390-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "archive",
+      "route": "/blog/archive/",
+      "width": 390,
+      "scheme": "light",
+      "images": [
+        "shared-styling-archive-390-light-before.jpg",
+        "shared-styling-archive-390-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "archive",
+      "route": "/blog/archive/",
+      "width": 1440,
+      "scheme": "dark",
+      "images": [
+        "shared-styling-archive-1440-dark-before.jpg",
+        "shared-styling-archive-1440-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "archive",
+      "route": "/blog/archive/",
+      "width": 1440,
+      "scheme": "light",
+      "images": [
+        "shared-styling-archive-1440-light-before.jpg",
+        "shared-styling-archive-1440-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "post",
+      "route": "/blog/2026-10-10/",
+      "width": 390,
+      "scheme": "dark",
+      "images": [
+        "shared-styling-post-390-dark-before.jpg",
+        "shared-styling-post-390-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "post",
+      "route": "/blog/2026-10-10/",
+      "width": 390,
+      "scheme": "light",
+      "images": [
+        "shared-styling-post-390-light-before.jpg",
+        "shared-styling-post-390-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "post",
+      "route": "/blog/2026-10-10/",
+      "width": 1440,
+      "scheme": "dark",
+      "images": [
+        "shared-styling-post-1440-dark-before.jpg",
+        "shared-styling-post-1440-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "post",
+      "route": "/blog/2026-10-10/",
+      "width": 1440,
+      "scheme": "light",
+      "images": [
+        "shared-styling-post-1440-light-before.jpg",
+        "shared-styling-post-1440-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "about",
+      "route": "/about/",
+      "width": 390,
+      "scheme": "dark",
+      "images": [
+        "shared-styling-about-390-dark-before.jpg",
+        "shared-styling-about-390-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "about",
+      "route": "/about/",
+      "width": 390,
+      "scheme": "light",
+      "images": [
+        "shared-styling-about-390-light-before.jpg",
+        "shared-styling-about-390-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "about",
+      "route": "/about/",
+      "width": 1440,
+      "scheme": "dark",
+      "images": [
+        "shared-styling-about-1440-dark-before.jpg",
+        "shared-styling-about-1440-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "about",
+      "route": "/about/",
+      "width": 1440,
+      "scheme": "light",
+      "images": [
+        "shared-styling-about-1440-light-before.jpg",
+        "shared-styling-about-1440-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "directory",
+      "route": "/benchmarks/",
+      "width": 390,
+      "scheme": "dark",
+      "images": [
+        "shared-styling-directory-390-dark-before.jpg",
+        "shared-styling-directory-390-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "directory",
+      "route": "/benchmarks/",
+      "width": 390,
+      "scheme": "light",
+      "images": [
+        "shared-styling-directory-390-light-before.jpg",
+        "shared-styling-directory-390-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "directory",
+      "route": "/benchmarks/",
+      "width": 1440,
+      "scheme": "dark",
+      "images": [
+        "shared-styling-directory-1440-dark-before.jpg",
+        "shared-styling-directory-1440-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "directory",
+      "route": "/benchmarks/",
+      "width": 1440,
+      "scheme": "light",
+      "images": [
+        "shared-styling-directory-1440-light-before.jpg",
+        "shared-styling-directory-1440-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "record",
+      "route": "/benchmarks/artificial-analysis-gpqa-diamond/",
+      "width": 390,
+      "scheme": "dark",
+      "images": [
+        "shared-styling-record-390-dark-before.jpg",
+        "shared-styling-record-390-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "record",
+      "route": "/benchmarks/artificial-analysis-gpqa-diamond/",
+      "width": 390,
+      "scheme": "light",
+      "images": [
+        "shared-styling-record-390-light-before.jpg",
+        "shared-styling-record-390-light-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "record",
+      "route": "/benchmarks/artificial-analysis-gpqa-diamond/",
+      "width": 1440,
+      "scheme": "dark",
+      "images": [
+        "shared-styling-record-1440-dark-before.jpg",
+        "shared-styling-record-1440-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "Shared styling",
+      "page": "record",
+      "route": "/benchmarks/artificial-analysis-gpqa-diamond/",
+      "width": 1440,
+      "scheme": "light",
+      "images": [
+        "shared-styling-record-1440-light-before.jpg",
+        "shared-styling-record-1440-light-after.jpg"
+      ]
+    }
+  ],
+  "browser_errors": []
+}

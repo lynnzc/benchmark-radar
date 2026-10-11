@@ -1,0 +1,122 @@
+[
+  {
+    "change": "Shared styling",
+    "commit": "240c89eb81af8182db97047d9eb5360744069e5a",
+    "fresh_worktree": true,
+    "own_venv": true,
+    "initialized_submodules": true,
+    "steps": [
+      {
+        "command": "ruff check .",
+        "exit_code": 0,
+        "seconds": 0.14
+      },
+      {
+        "command": "ruff format --check .",
+        "exit_code": 0,
+        "seconds": 0.08
+      },
+      {
+        "command": "benchmark-radar normalize-catalog",
+        "exit_code": 0,
+        "seconds": 6.14
+      },
+      {
+        "command": "benchmark-radar classify",
+        "exit_code": 0,
+        "seconds": 56.8
+      },
+      {
+        "command": "benchmark-radar build-data-release",
+        "exit_code": 0,
+        "seconds": 14.01
+      },
+      {
+        "command": "pytest -q",
+        "exit_code": 0,
+        "seconds": 373.83
+      }
+    ],
+    "pytest": "1809 passed in 372.84s (0:06:12)"
+  },
+  {
+    "change": "Research explorer",
+    "commit": "0e90ea20a56c8c6201f2108f921b05ddc4bb6172",
+    "fresh_worktree": true,
+    "own_venv": true,
+    "initialized_submodules": true,
+    "steps": [
+      {
+        "command": "ruff check .",
+        "exit_code": 0,
+        "seconds": 0.06
+      },
+      {
+        "command": "ruff format --check .",
+        "exit_code": 0,
+        "seconds": 0.06
+      },
+      {
+        "command": "benchmark-radar normalize-catalog",
+        "exit_code": 0,
+        "seconds": 7.24
+      },
+      {
+        "command": "benchmark-radar classify",
+        "exit_code": 0,
+        "seconds": 46.18
+      },
+      {
+        "command": "benchmark-radar build-data-release",
+        "exit_code": 0,
+        "seconds": 11.67
+      },
+      {
+        "command": "pytest -q",
+        "exit_code": 0,
+        "seconds": 352.32
+      }
+    ],
+    "pytest": "1810 passed in 351.66s (0:05:51)"
+  },
+  {
+    "change": "Combined preview",
+    "commit": "5451dca09b5335a324e34f24185a23438e9bfec7",
+    "fresh_worktree": true,
+    "own_venv": true,
+    "initialized_submodules": true,
+    "steps": [
+      {
+        "command": "ruff check .",
+        "exit_code": 0,
+        "seconds": 0.07
+      },
+      {
+        "command": "ruff format --check .",
+        "exit_code": 0,
+        "seconds": 0.19
+      },
+      {
+        "command": "benchmark-radar normalize-catalog",
+        "exit_code": 0,
+        "seconds": 9.47
+      },
+      {
+        "command": "benchmark-radar classify",
+        "exit_code": 0,
+        "seconds": 57.45
+      },
+      {
+        "command": "benchmark-radar build-data-release",
+        "exit_code": 0,
+        "seconds": 13.57
+      },
+      {
+        "command": "pytest -q",
+        "exit_code": 0,
+        "seconds": 380.16
+      }
+    ],
+    "pytest": "1811 passed in 379.45s (0:06:19)"
+  }
+]
