@@ -791,6 +791,160 @@
         "shared-styling-record-1440-light-before.jpg",
         "shared-styling-record-1440-light-after.jpg"
       ]
+    },
+    {
+      "group": "UI refinement",
+      "page": "today",
+      "route": "/",
+      "width": 1440,
+      "scheme": "light",
+      "images": [
+        "ui-refinement-today-1440-light-before.jpg",
+        "ui-refinement-today-1440-light-after.jpg"
+      ]
+    },
+    {
+      "group": "UI refinement",
+      "page": "today",
+      "route": "/",
+      "width": 1440,
+      "scheme": "dark",
+      "images": [
+        "ui-refinement-today-1440-dark-before.jpg",
+        "ui-refinement-today-1440-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "UI refinement",
+      "page": "today",
+      "route": "/",
+      "width": 1060,
+      "scheme": "light",
+      "images": [
+        "ui-refinement-today-1060-light-before.jpg",
+        "ui-refinement-today-1060-light-after.jpg"
+      ]
+    },
+    {
+      "group": "UI refinement",
+      "page": "today",
+      "route": "/",
+      "width": 1060,
+      "scheme": "dark",
+      "images": [
+        "ui-refinement-today-1060-dark-before.jpg",
+        "ui-refinement-today-1060-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "UI refinement",
+      "page": "today",
+      "route": "/",
+      "width": 768,
+      "scheme": "light",
+      "images": [
+        "ui-refinement-today-768-light-before.jpg",
+        "ui-refinement-today-768-light-after.jpg"
+      ]
+    },
+    {
+      "group": "UI refinement",
+      "page": "today",
+      "route": "/",
+      "width": 768,
+      "scheme": "dark",
+      "images": [
+        "ui-refinement-today-768-dark-before.jpg",
+        "ui-refinement-today-768-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "UI refinement",
+      "page": "today",
+      "route": "/",
+      "width": 390,
+      "scheme": "light",
+      "images": [
+        "ui-refinement-today-390-light-before.jpg",
+        "ui-refinement-today-390-light-after.jpg"
+      ]
+    },
+    {
+      "group": "UI refinement",
+      "page": "today",
+      "route": "/",
+      "width": 390,
+      "scheme": "dark",
+      "images": [
+        "ui-refinement-today-390-dark-before.jpg",
+        "ui-refinement-today-390-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "UI refinement",
+      "page": "today",
+      "route": "/",
+      "width": 375,
+      "scheme": "light",
+      "images": [
+        "ui-refinement-today-375-light-before.jpg",
+        "ui-refinement-today-375-light-after.jpg"
+      ]
+    },
+    {
+      "group": "UI refinement",
+      "page": "today",
+      "route": "/",
+      "width": 375,
+      "scheme": "dark",
+      "images": [
+        "ui-refinement-today-375-dark-before.jpg",
+        "ui-refinement-today-375-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "UI refinement",
+      "page": "today",
+      "route": "/",
+      "width": 361,
+      "scheme": "light",
+      "images": [
+        "ui-refinement-today-361-light-before.jpg",
+        "ui-refinement-today-361-light-after.jpg"
+      ]
+    },
+    {
+      "group": "UI refinement",
+      "page": "today",
+      "route": "/",
+      "width": 361,
+      "scheme": "dark",
+      "images": [
+        "ui-refinement-today-361-dark-before.jpg",
+        "ui-refinement-today-361-dark-after.jpg"
+      ]
+    },
+    {
+      "group": "UI refinement",
+      "page": "today",
+      "route": "/",
+      "width": 320,
+      "scheme": "light",
+      "images": [
+        "ui-refinement-today-320-light-before.jpg",
+        "ui-refinement-today-320-light-after.jpg"
+      ]
+    },
+    {
+      "group": "UI refinement",
+      "page": "today",
+      "route": "/",
+      "width": 320,
+      "scheme": "dark",
+      "images": [
+        "ui-refinement-today-320-dark-before.jpg",
+        "ui-refinement-today-320-dark-after.jpg"
+      ]
     }
   ],
   "browser_errors": []

@@ -1,7 +1,7 @@
 [
   {
     "change": "Shared styling",
-    "commit": "240c89eb81af8182db97047d9eb5360744069e5a",
+    "commit": "03b006232b274cba1be90908ecd23e036d62426b",
     "fresh_worktree": true,
     "own_venv": true,
     "initialized_submodules": true,
@@ -9,35 +9,35 @@
       {
         "command": "ruff check .",
         "exit_code": 0,
-        "seconds": 0.14
+        "seconds": 0.1
       },
       {
         "command": "ruff format --check .",
         "exit_code": 0,
-        "seconds": 0.08
+        "seconds": 0.33
       },
       {
         "command": "benchmark-radar normalize-catalog",
         "exit_code": 0,
-        "seconds": 6.14
+        "seconds": 9.52
       },
       {
         "command": "benchmark-radar classify",
         "exit_code": 0,
-        "seconds": 56.8
+        "seconds": 75.02
       },
       {
         "command": "benchmark-radar build-data-release",
         "exit_code": 0,
-        "seconds": 14.01
+        "seconds": 22.88
       },
       {
         "command": "pytest -q",
         "exit_code": 0,
-        "seconds": 373.83
+        "seconds": 388.36
       }
     ],
-    "pytest": "1809 passed in 372.84s (0:06:12)"
+    "pytest": "1809 passed in 387.06s (0:06:27)"
   },
   {
     "change": "Research explorer",
@@ -81,7 +81,7 @@
   },
   {
     "change": "Combined preview",
-    "commit": "5451dca09b5335a324e34f24185a23438e9bfec7",
+    "commit": "d6199cd912e46f7e0fc4d95f85bd7ef086a99bd6",
     "fresh_worktree": true,
     "own_venv": true,
     "initialized_submodules": true,
@@ -89,34 +89,34 @@
       {
         "command": "ruff check .",
         "exit_code": 0,
-        "seconds": 0.07
+        "seconds": 0.2
       },
       {
         "command": "ruff format --check .",
         "exit_code": 0,
-        "seconds": 0.19
+        "seconds": 0.22
       },
       {
         "command": "benchmark-radar normalize-catalog",
         "exit_code": 0,
-        "seconds": 9.47
+        "seconds": 12.2
       },
       {
         "command": "benchmark-radar classify",
         "exit_code": 0,
-        "seconds": 57.45
+        "seconds": 89.4
       },
       {
         "command": "benchmark-radar build-data-release",
         "exit_code": 0,
-        "seconds": 13.57
+        "seconds": 26.54
       },
       {
         "command": "pytest -q",
         "exit_code": 0,
-        "seconds": 380.16
+        "seconds": 387.61
       }
     ],
-    "pytest": "1811 passed in 379.45s (0:06:19)"
+    "pytest": "1811 passed in 386.70s (0:06:26)"
   }
 ]
